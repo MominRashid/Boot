@@ -1,0 +1,15 @@
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\bin\Debug\UniversityAPP.exe.config
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.CourceEntry.resources
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.MainUI.resources
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.Properties.Resources.resources
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\bin\Debug\UniversityAPP.exe
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\bin\Debug\UniversityAPP.pdb
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.exe
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.pdb
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.StudentEntry.resources
+C:\Users\PC21\Desktop\Null Referance\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.Enrollment.resources
+C:\Users\PC21\Desktop\UniversityAPP-master\UniversityAPP-master\UniversityAPP\UniversityAPP\bin\Debug\UniversityAPP.exe.config
+C:\Users\PC21\Desktop\UniversityAPP-master\UniversityAPP-master\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.exe
+C:\Users\PC21\Desktop\UniversityAPP-master\UniversityAPP-master\UniversityAPP\UniversityAPP\obj\Debug\UniversityAPP.pdb
